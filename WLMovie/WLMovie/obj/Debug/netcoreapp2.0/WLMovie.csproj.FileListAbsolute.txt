@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\WLMovie\WLMovie\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Alex\Desktop\WLMovie\WLMovie\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Alex\Desktop\WLMovie\WLMovie\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Alex\Desktop\WLMovie\WLMovie\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Alex\Desktop\WLMovie\WLMovie\bin\Debug\netcoreapp2.0\WLMovie.deps.json
+C:\Users\Alex\Desktop\WLMovie\WLMovie\bin\Debug\netcoreapp2.0\WLMovie.runtimeconfig.json
+C:\Users\Alex\Desktop\WLMovie\WLMovie\bin\Debug\netcoreapp2.0\WLMovie.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\WLMovie\WLMovie\bin\Debug\netcoreapp2.0\WLMovie.dll
+C:\Users\Alex\Desktop\WLMovie\WLMovie\bin\Debug\netcoreapp2.0\WLMovie.pdb
+C:\Users\Alex\Desktop\WLMovie\WLMovie\obj\Debug\netcoreapp2.0\WLMovie.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\WLMovie\WLMovie\obj\Debug\netcoreapp2.0\WLMovie.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\WLMovie\WLMovie\obj\Debug\netcoreapp2.0\WLMovie.AssemblyInfo.cs
+C:\Users\Alex\Desktop\WLMovie\WLMovie\obj\Debug\netcoreapp2.0\WLMovie.dll
+C:\Users\Alex\Desktop\WLMovie\WLMovie\obj\Debug\netcoreapp2.0\WLMovie.pdb

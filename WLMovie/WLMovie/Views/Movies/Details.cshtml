@@ -1,0 +1,85 @@
+﻿@model WLMovie.Models.Movie
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Movie Details</h2>
+
+<div>
+  
+    <hr />
+    <div class="dl-horizontal alert alert-dismissible alert-info col-7">
+
+
+
+        <h4 class="mb-0">
+            <span>
+                <b>
+                    @Html.DisplayNameFor(model => model.Title):
+                </b>  @Html.DisplayFor(model => model.Title)
+            </span>
+        </h4> <hr />
+
+
+        <h4 class="mb-0">
+            <span>
+                <b>
+                    @Html.DisplayNameFor(model => model.ReleaseDate):
+                </b>  @Html.DisplayFor(model => model.ReleaseDate)
+            </span>
+        </h4> <hr />
+
+
+        <h4 class="mb-0">
+            <span>
+                <b>
+                    @Html.DisplayNameFor(model => model.Genre):
+                </b>  @Html.DisplayFor(model => model.Genre)
+            </span>
+        </h4> <hr />
+
+
+        <h4 class="mb-0">
+            <span>
+                <b>
+                    @Html.DisplayNameFor(model => model.Price):
+                </b>  @Html.DisplayFor(model => model.Price)
+            </span>
+        </h4>
+
+
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ReleaseDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ReleaseDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Genre)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Genre)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>*@
+
+
+
+    </div>
+</div>
+<div>
+    <a class="btn btn-success" asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+    <a class="btn btn-secondary" asp-action="Index">Back to List</a>
+</div>

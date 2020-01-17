@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+.jumbotron {
+        background-image: url('../images/img_7365.jpg');
+        width: 90%;
+    }
+.lead {
+    margin-top:460px;
+
+}
+</style>
+
+<h1>Create your Favorite Movie Wishlist</h1><hr />
+
+<div class="jumbotron text-center">
+
+    
+    <div class="lead">
+        <a class="btn btn-secondary btn-lg" asp-area="" asp-controller="Movies" asp-action="Create">Add Movies</a>
+        <a class="btn btn-secondary btn-lg" asp-area="" asp-controller="Movies" asp-action="Index">View all Movies</a>
+    </div>
+</div>
